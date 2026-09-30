@@ -1,25 +1,25 @@
 # FSKY
 FSKY is a tech collective building and hosting free, open source software with a focus on privacy, decentralization, and the open web.
 
-To see our roadmap, report issues, or leave feedback, visit [fsky/issues](https://foundry.fsky.io/fsky/issues).
+To see our roadmap, report issues, or leave feedback, visit [fsky/issues](https://gitfield.org/fsky/issues).
 
-**All FSKY repos on GitHub are a read-only mirror. The main source is at [FSKY Foundry](https://foundry.fsky.io/fsky). Please submit any issues or PRs there instead of GitHub.**
+**All FSKY repos on GitHub are a read-only mirror. The main source is at [Gitfield](https://gitfield.org/fsky). Please submit any issues or PRs there instead of GitHub.**
 
 ## Projects
 
-- [Yggdrasil Switcher](https://foundry.fsky.io/fsky/yggdrasil-switcher) - a browser extension that helps you find alternative versions of websites hosted on the Yggdrasil network
-- [yggpeers](https://foundry.fsky.io/fsky/yggpeers) - a public peer directory for the Yggdrasil network, with a REST and CSV API, stats, and a choropleth world map
-- [Mezzo](https://foundry.fsky.io/fsky/mezzo) - a privacy-friendly and lightweight GIF viewer for Tenor
-- [who dis?](https://foundry.fsky.io/fsky/whodis) - a simple web tool for querying WHOIS information of entities like domain names, TLDs, IP addresses, CIDR ranges, and ASNs
-- [gibcert](https://foundry.fsky.io/fsky/gibcert) - an awesome declarative TLS certificate manager
-- [j2i](https://foundry.fsky.io/fsky/j2i) - an XMPP-to-IRC plumbing bridge/gateway
-- [XMPP Utilities](https://foundry.fsky.io/fsky/xmpp-utilities) - an XMPP bot with diagnostics and monitoring tools
+- [Yggdrasil Switcher](https://gitfield.org/fsky/yggdrasil-switcher) - a browser extension that helps you find alternative versions of websites hosted on the Yggdrasil network
+- [yggpeers](https://gitfield.org/fsky/yggpeers) - a public peer directory for the Yggdrasil network, with a REST and CSV API, stats, and a choropleth world map
+- [Mezzo](https://gitfield.org/fsky/mezzo) - a privacy-friendly and lightweight GIF viewer for Tenor
+- [who dis?](https://gitfield.org/fsky/whodis) - a simple web tool for querying WHOIS information of entities like domain names, TLDs, IP addresses, CIDR ranges, and ASNs
+- [gibcert](https://gitfield.org/fsky/gibcert) - an awesome declarative TLS certificate manager
+- [j2i](https://gitfield.org/fsky/j2i) - an XMPP-to-IRC plumbing bridge/gateway
+- [XMPP Utilities](https://gitfield.org/fsky/xmpp-utilities) - an XMPP bot with diagnostics and monitoring tools
 
 ### Labs
 
 Experimental projects currently in development:
 
-- [Forcefield](https://foundry.fsky.io/fsky/forcefield) - an intelligent WAF/anti-bot system
+- [Forcefield](https://gitfield.org/fsky/forcefield) - an intelligent WAF/anti-bot system
 
 More projects are currently in development or testing which might become public once ready.
 
